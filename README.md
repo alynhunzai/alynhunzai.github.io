@@ -1,18 +1,20 @@
 # Project: Identify Dog Breeds using a CNN Model
-
 A project completed on Udacity as part of AI Programming with Python Nanodegree programme
 
-## Description
 
+## Description
 In this project, I used a pre-trained image classifier to identify dog breeds from different dog images.
+
 
 ## Goal
 The purpose of the project was to improve python programming skills rather than create and train a CNN model.
 
+
 ## About the Models 
 While working on this project, I explored three different architectures (AlexNet, VGG, and ResNet) and determined which was best for my application.
 
-# Objectives
+
+## Objectives
 • Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.
 
 • Correctly classify the breed of dog, for the images that are of dogs.
